@@ -1,6 +1,7 @@
 package org.ace.headfirst;
 
 /**
+ * 策略模式
  * @author L
  * @date 2018/3/12
  */
