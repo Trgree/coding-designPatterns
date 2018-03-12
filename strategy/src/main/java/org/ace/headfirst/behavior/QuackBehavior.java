@@ -1,4 +1,4 @@
-package org.ace.headfirst;
+package org.ace.headfirst.behavior;
 
 public interface QuackBehavior {
     void quack();

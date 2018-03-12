@@ -5,11 +5,8 @@ package org.ace.headfirst;
  */
 public class Deom {
     public static void main(String[] args) {
-        Duck duck = new Duck() {
-            @Override
-            public void display() {
-
-            }
-        };
+        Duck mallard = new MallardDuck();
+        mallard.performFly();
+        mallard.performQuack();
     }
 }

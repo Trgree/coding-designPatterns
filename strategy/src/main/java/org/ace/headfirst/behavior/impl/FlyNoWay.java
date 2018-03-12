@@ -1,6 +1,6 @@
-package org.ace.headfirst.impl;
+package org.ace.headfirst.behavior.impl;
 
-import org.ace.headfirst.FlyBehavior;
+import org.ace.headfirst.behavior.FlyBehavior;
 
 /**
  * @author L
