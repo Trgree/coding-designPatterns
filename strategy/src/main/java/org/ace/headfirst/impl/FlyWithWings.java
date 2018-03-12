@@ -9,6 +9,6 @@ import org.ace.headfirst.FlyBehavior;
 public class FlyWithWings implements FlyBehavior {
     @Override
     public void fly() {
-        System.out.println("飞起来");
+        System.out.println("Fly ...");
     }
 }
