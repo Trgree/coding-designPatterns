@@ -9,11 +9,11 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>strategy</module>
-        <module>Observer</module>
+        <module>1_strategy</module>
+        <module>2_Observer</module>
         <module>proxy</module>
         <module>chain-of-responsibility</module>
-        <module>decorator</module>
+        <module>3_decorator</module>
     </modules>
 
 
