@@ -14,6 +14,7 @@
         <module>proxy</module>
         <module>chain-of-responsibility</module>
         <module>3_decorator</module>
+        <module>4_factory</module>
     </modules>
 
 
